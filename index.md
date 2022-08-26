@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Zainub Kokan's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,22 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-I can make the font **Bold** if I want to or _Italicized_ or **_both_** 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- Course seems pretty helpful for understanding other CS classes
+- It is very low key which is helpful as it does not cause as much stress as some other classes
+- The teachers are very nice :)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
