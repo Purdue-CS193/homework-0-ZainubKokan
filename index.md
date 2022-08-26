@@ -21,6 +21,8 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+I can make the font **Bold** if I want to or _Italicized_ or **_both_** 
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
